@@ -1,5 +1,7 @@
 # easy-JS-exercises ESPAÑOL
 
+WORK IN PROGRESS 
+
 Los ejercicios de este repositorio están planteados para practicar java script.
 Para poder realizarlos, clona el repositorio en tu ordenador.
 <br></br>

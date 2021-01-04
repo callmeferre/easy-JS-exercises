@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To Do List</title>
+    <script
+      src="https://kit.fontawesome.com/1f28b64665.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+
+  <body>
+    <div class="card">
+      <h1 class="title">To do list</h1>
+      <div class="form">
+        <input class="text" type="text" placeholder="to do" />
+        <button class="add">+</button>
+      </div>
+      <ul class="list">
+        <li>
+          <button class="listElement done">
+            <i class="icon far fa-check-square"></i>
+            <span class="listElementText">Create a list</span>
+          </button>
+        </li>
+        <li>
+          <button class="listElement">
+            <i class="icon far fa-square"></i>
+            <span class="listElementText">Apply JS</span>
+          </button>
+        </li>
+      </ul>
+    </div>
+    <script src="./js/main.js"></script>
+  </body>
+</html>

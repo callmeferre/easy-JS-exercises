@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: wheat;
+}
+
+.card {
+  background-color: cornsilk;
+  box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.3);
+  width: 500px;
+  height: calc(100vh - 100px);
+  margin: 50px auto;
+  padding: 60px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: peru;
+  width: 80%;
+}
+
+.form {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text {
+  width: 85%;
+  background-color: peru;
+  height: 30px;
+  border: none;
+  padding: 10px;
+  color: cornsilk;
+}
+
+.text::placeholder {
+  padding: 10px;
+  color: cornsilk;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.add {
+  width: 15%;
+  background-color: transparent;
+  color: peru;
+  border: none;
+  font-size: 40px;
+  padding: 0;
+  font-weight: bold;
+}
+
+.list {
+  width: 70%;
+  height: 320px;
+  list-style: none;
+  overflow: hidden;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column-reverse;
+  padding: 0;
+}
+
+.listElement {
+  text-align: left;
+  color: peru;
+  font-weight: 600;
+  opacity: 1;
+  display: block;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+}
+
+.done {
+  opacity: 0.6;
+}

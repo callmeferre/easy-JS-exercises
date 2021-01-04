@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: silver;
+}
+
+.none {
+  background-color: lightgrey;
+  color: lightgrey;
+}
+
+.red {
+  background-color: firebrick;
+  color: firebrick;
+}
+
+.blue {
+  background-color: darkslateblue;
+  color: darkslateblue;
+}
+
+.green {
+  background-color: olive;
+  color: olive;
+}
+
+.colorName {
+  background-color: transparent;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.block {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto 10px;
+}

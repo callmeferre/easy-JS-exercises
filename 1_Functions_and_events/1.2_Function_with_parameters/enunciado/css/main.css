@@ -1,0 +1,62 @@
+body {
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: silver;
+}
+
+.selectors {
+  width: 150px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: lightgrey;
+  border-radius: 10px;
+}
+
+.select {
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 40px;
+  background-color: transparent;
+}
+
+.select:focus {
+  border: none;
+  outline: none;
+  opacity: 0.5;
+}
+
+.none {
+  background-color: lightgrey;
+  color: lightgrey;
+}
+
+.red {
+  background-color: firebrick;
+  color: firebrick;
+}
+
+.blue {
+  background-color: darkslateblue;
+  color: darkslateblue;
+}
+
+.green {
+  background-color: olive;
+  color: olive;
+}
+
+.colorName {
+  background-color: transparent;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+.block {
+  width: 200px;
+  height: 200px;
+  margin: 150px auto 10px;
+}

@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+
+.light {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: calc(50vh - 50px);
+  left: calc(50vw - 50px);
+  border-radius: 50px;
+  background-color: aliceblue;
+}
+
+.off {
+  background-color: aliceblue;
+  box-shadow: none;
+}
+
+.on {
+  background-color: gold;
+  box-shadow: 0 0 20px 5px gold;
+}
+
+.switch {
+  width: 60px;
+  height: 40px;
+  position: relative;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  text-align: center;
+  background-color: grey;
+  top: 20vh;
+  left: calc(50vw - 25px);
+}
+
+.switch:active {
+  background-color: lightgray;
+  border: none;
+}
+
+.switch:focus {
+  outline-offset: none;
+}

@@ -27,8 +27,6 @@ function listed() {
   list.innerHTML += listElement;
   // por último, para que quede mas bonito, vamos a limpiar el input y volver a dejarlo vacio
   text.value = null;
-
-  });
 }
 
 // una vez terminada la función, hacemos que el botón de + llame a la función con un click

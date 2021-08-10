@@ -1,25 +1,20 @@
-# easy-JS-exercises ESPAÑOL
+# easy JS exercises
 
-WORK IN PROGRESS 
-
+This repository is a WORK IN PROGRESS 
 
 ![UsesHTML](https://forthebadge.com/images/badges/uses-html.svg) ![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg) ![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
 
 
-Los ejercicios de este repositorio están planteados para practicar java script.
-Para poder realizarlos, clona el repositorio en tu ordenador.
+The exercises of this repository are planned as learning and practice for de basics of JavaScript.
+To use them, please clone the repository to yous computer.
 <br></br>
-El repositorio está ordenado por temas, subdivididos en aplicaciones concretas de cada concepto.
-En cada ejercicio encontrarás tres opciones: enunciado, con ayuda y resultado.
+The repository is ordered by theme, and subdivided in specific apps for each concept.
 <br></br>
-
-- enunciado: solo muestra cual es el ejecicio a realizar. Prueba a hacerlo sola.
-- con ayuda: además del enunciado, tienes pistas de qué hacer paso a paso.
-- resultado: solución final del ejrcicio, con las pistas de "con ayuda" para que entiendas el por qué de cada parte del ejercicio.
-
+Each exercise has three options:
+- **subject**: only gives you the general explanation of the exersice, try it on your own.
+- **help**: alognside the subject, there are step by step walkthrough of what to do.
+- **solution**: the solution of the exercice, whith the clues from help as an explatation of what does each part do.
 <br></br>
-Dentro de estas carpetas encontrarás un html, una carpeta de css y otra de js.
-En la carpeta de js, un único fichero de javascript en el que realizar el ejercico.
-El enunciado y las pistas de la ayuda se encuentran comentadas, de manera que no molestarán a tu código.
+Inside each option you'll find three files, HTML, CSS and JS. The last two in their respective foldes. The JS file is where you should complete the exercise.
+The subjects and help are commented, so they won't bother the code.
 <br></br>
-Algunos ejercicios repiten el ejemplo sobre el que trabajar, pero según avanzamos vamos añadiendo funcionalidades.

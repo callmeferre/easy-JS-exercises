@@ -3,9 +3,7 @@
 WORK IN PROGRESS 
 
 
-[![UsesHTML](https://forthebadge.com/images/badges/uses-html.svg)
-[![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg)
-[![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
+![UsesHTML](https://forthebadge.com/images/badges/uses-html.svg) ![Uses CSS](https://forthebadge.com/images/badges/uses-css.svg) ![Uses JS](https://forthebadge.com/images/badges/uses-js.svg)
 
 
 Los ejercicios de este repositorio están planteados para practicar java script.
